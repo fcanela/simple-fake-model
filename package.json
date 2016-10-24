@@ -4,7 +4,7 @@
   "description": "Simple and fake model used to avoid DB in teaching",
   "main": "lib/fakemodel.js",
   "scripts": {
-    "lint": "eslint -c .eslint lib/* ",
+    "lint": "eslint lib/* ",
     "test": "npm run lint && npm run test:unit && npm run test:coverage",
     "test:unit": "mocha test/*.test.js",
     "test:unit:watch": "mocha -w test/*.test.js",
