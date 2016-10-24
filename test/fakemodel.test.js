@@ -1,6 +1,6 @@
 'use strict';
 
-const FakeModel = require('./fakemodel.js');
+const FakeModel = require('../lib/fakemodel.js');
 const assert = require('assert');
 
 describe('Fake model', () => {
