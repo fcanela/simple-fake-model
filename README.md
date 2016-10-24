@@ -68,7 +68,7 @@ I know the library is stupid as hell. It's probably a feature.
 If you think something could be done better or simply sucks, bring up a issue on the [tracker](https://github.com/fcanela/simple-fake-model/issues). Don't be shy. I really love feedback and technical discussions.
 
 ### <a name="developing"></a> Developing
-Pull requests are welcome (and will make me cry in joy) as long as they pass tests for included and old features.~~ I can not accept pull requests until mid-2017. Please, contact me if needed. Sorry.
+Pull requests are welcome (and will make me cry in joy) as long as they pass tests for included and old features.
 
 Did I already say that I **love** technical discussions? Feel free to open a issue on the [tracker](https://github.com/fcanela/simple-fake-model/issues) if you have any doubt.
 
