@@ -39,9 +39,10 @@ const model = new FakeModel();
 Implemented features:
 
 * `model.list()` which returns an array with all the items stored.
-* `model.insert(id)` which accepts an object and stores it with an `id`. Inserted item is returned.
+* `model.insert(object)` which accepts an object and stores it with an `id`. Inserted item is returned.
 * `model.getById(id)` which accepts an id and returns the item stored with provided id.
 * `model.deleteById(id)` which removes the item with provided id.
+* `model.updateById(id, object)` which updates the item with provided id.
 
 All the methods returns the value using an ES6 Promise.
 
