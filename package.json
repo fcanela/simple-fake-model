@@ -1,6 +1,6 @@
 {
   "name": "simple-fake-model",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Simple and fake model used to avoid DB in teaching",
   "main": "lib/fakemodel.js",
   "scripts": {
